@@ -9,7 +9,6 @@ løsninger som leverer verdi for brukere.
 - 📍 Lokasjon: Bergen, Norge
 - 👷‍♂️ Stilling: Webutvikler hos [Link Utvikling](https://www.linkutvikling.no/)
 - 📧 E-post: [samtisahmed@gmail.com](mailto:samtisahmed@gmail.com)
-- 📞 Telefon: +47 97 36 80 47
 
 ---
 
@@ -71,5 +70,5 @@ løsninger som leverer verdi for brukere.
 
 Jeg er alltid åpen for spennende prosjekter og samarbeid!
 
-- **LinkedIn:** [LinkedIn-profil](#)
-- **GitHub:** [GitHub-profil](#)
+- **LinkedIn:** [LinkedIn-profil](https://www.linkedin.com/in/samti-ahmed-1155842a8/)
+- **GitHub:** [GitHub-profil](https://github.com/Samticode)
